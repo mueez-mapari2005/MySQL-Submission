@@ -1,6 +1,7 @@
 /*
 Stock Market Database Assignment-2 
 Created By : Mueez Mapari
+Date : 2025/03/01
 This database is designed to store and analyze stock market data
 It includes 10 table that store information about stocks, dividends, market indices, transactions, etc.
 The project uses various SQL commands such as SELECT, UPDATE, DELETE, ORDER BY, GROUP BY, and LIMIT for real world analysis
